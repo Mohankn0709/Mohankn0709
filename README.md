@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D001&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohan+Kumar+N;Full+Stack+Software+Engineer;Building+Scalable+Web+Apps;Python+%7C+React+%7C+Node.js;Open+to+Collaborations!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06D001&center=true&vCenter=true&width=600&lines=Hi+I'm+Mohan+Kumar+N;Full+Stack+Dev;Building+Scalable+Web+Apps;Python+%7C+React+%7C+Node.js;Open+to+Collaborations!" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -47,11 +47,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Mohankn0709]&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Mohankn0709]&theme=radical&hide_border=true" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Mohankn0709]&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
