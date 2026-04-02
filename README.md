@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohan Kumar N 👋</h1>
 
 <p align="center">
-  MCA Graduate &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Cybersecurity Enthusiast &nbsp;·&nbsp; Bengaluru, India
+  MCA Graduate &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Cybersecurity Enthusiast &nbsp;·&nbsp; Mysuru, India
 </p>
 
 <p align="center">
